@@ -1,0 +1,8 @@
+#ignore a.out
+a.out
+
+#ignore the class files
+*.class
+
+#ignore everything in the private folder
+private/
